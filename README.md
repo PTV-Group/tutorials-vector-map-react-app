@@ -10,5 +10,5 @@ PTV Developer APIs used in this tutorial:
 - Run `npm install` in the main directory.
 - Run `npm start` to start the application.
 #
-### Try it <a href="https://developer.myptv.com/Applications/MapRendering/ptv-vectormap-react-app/index.html" target="_blank">here</a>.
+### Try it <a href="https://developer-applications.myptv.com/Tutorials/MapRendering/ptv-vectormap-react-app/index.html" target="_blank">here</a>.
 ### Read the <a href="https://developer.myptv.com/Tutorials/Map%20Rendering/Vector%20Map%20React%20App/Vector%20Map%20React%20App.htm" target="_blank">complete tutorial</a> on PTV Developer.

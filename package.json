@@ -2,7 +2,7 @@
   "name": "ptv-vectormap-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "Applications/MapRendering/ptv-vectormap-react-app",
+  "homepage": "Tutorials/MapRendering/ptv-vectormap-react-app",
   "dependencies": {
     
     "react": "^17.0.2",
