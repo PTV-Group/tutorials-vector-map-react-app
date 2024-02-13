@@ -1,10 +1,10 @@
-import "mapbox-gl/dist/mapbox-gl.css";
+import "maplibre-gl/dist/maplibre-gl.css";
 
 import { VectorMap } from "./VectorMap";
 
-const api_key = "YOUR_API_KEY";
+const API_KEY = "YOUR_API_KEY";
 
-const wrapperStyle = {
+const WRAPPER_STYLE = {
   position: "absolute",
   gridArea: "map",
   height: "100%",
@@ -13,8 +13,8 @@ const wrapperStyle = {
 };
 
 const App = () => (
-  <div style={wrapperStyle}>
-    <VectorMap apiKey={api_key}/>
+  <div style={WRAPPER_STYLE}>
+    <VectorMap apiKey={API_KEY}/>
   </div>
 );
 
