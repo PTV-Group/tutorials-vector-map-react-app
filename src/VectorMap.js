@@ -20,7 +20,7 @@ export const VectorMap = (props) => {
         return { url: url, headers: { ApiKey: " " + props.apiKey } };
       }
       return { url: url, headers: {} };
-    }
+    }, []
   );
 
   return (
